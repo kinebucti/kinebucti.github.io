@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kinebucti.github.io/sitemap.html.gz
+Sitemap: https://kinebucti.github.io/app/sitemap.html.gz
+Sitemap: https://kinebucti.github.io/assets/sitemap.html.gz
+Sitemap: https://kinebucti.github.io/css/sitemap.html.gz
+Sitemap: https://kinebucti.github.io/includes/sitemap.html.gz
+Sitemap: https://kinebucti.github.io/item/sitemap.html.gz
+Sitemap: https://kinebucti.github.io/src/sitemap.html.gz
